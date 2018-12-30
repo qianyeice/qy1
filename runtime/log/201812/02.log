@@ -1,0 +1,965 @@
+---------------------------------------------------------------
+[ 2018-12-02T17:27:03+08:00 ] 127.0.0.1 GET /index/leacots/index.html
+[ info ] www.qyice.co/index/leacots/index.html [运行时间：0.047528s][吞吐率：21.04req/s] [内存消耗：1,267.28kb] [文件加载：38]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'leacots',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'pgv_pvi=7288054784; pgv_si=s1184136192',
+  'connection' => 'close',
+  'referer' => 'http://www.qyice.co/index/leacots/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/leacots/index_html' => '',
+)
+[ info ] [ RUN ] app\index\controller\Leacots->index[ C:\Users\Administrator\Desktop\file\application\index\controller\Leacots.php ]
+[ info ] [ VIEW ] C:\Users\Administrator\Desktop\file/application/index\view\leacots\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-02T17:27:03+08:00 ] 127.0.0.1 GET /favicon.ico
+[ info ] www.qyice.co/favicon.ico [运行时间：0.047919s][吞吐率：20.87req/s] [内存消耗：819.67kb] [文件加载：29]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'cookie' => 'pgv_pvi=7288054784; pgv_si=s1184136192',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/favicon_ico' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-02T17:27:05+08:00 ] 127.0.0.1 GET /index/leacots/index.html
+[ info ] www.qyice.co/index/leacots/index.html [运行时间：0.041233s][吞吐率：24.25req/s] [内存消耗：1,112.45kb] [文件加载：36]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'leacots',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'pgv_pvi=7288054784; pgv_si=s1184136192',
+  'connection' => 'close',
+  'referer' => 'http://www.qyice.co/index/leacots/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/leacots/index_html' => '',
+)
+[ info ] [ RUN ] app\index\controller\Leacots->index[ C:\Users\Administrator\Desktop\file\application\index\controller\Leacots.php ]
+[ info ] [ VIEW ] C:\Users\Administrator\Desktop\file/application/index\view\leacots\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-02T17:27:05+08:00 ] 127.0.0.1 GET /favicon.ico
+[ info ] www.qyice.co/favicon.ico [运行时间：0.058599s][吞吐率：17.07req/s] [内存消耗：819.36kb] [文件加载：29]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7288054784; pgv_si=s1184136192',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/favicon_ico' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-02T17:27:07+08:00 ] 127.0.0.1 GET /index/leacots/index.html
+[ info ] www.qyice.co/index/leacots/index.html [运行时间：0.022953s][吞吐率：43.57req/s] [内存消耗：1,112.45kb] [文件加载：36]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'leacots',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'pgv_pvi=7288054784; pgv_si=s1184136192',
+  'connection' => 'close',
+  'referer' => 'http://www.qyice.co/index/leacots/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/leacots/index_html' => '',
+)
+[ info ] [ RUN ] app\index\controller\Leacots->index[ C:\Users\Administrator\Desktop\file\application\index\controller\Leacots.php ]
+[ info ] [ VIEW ] C:\Users\Administrator\Desktop\file/application/index\view\leacots\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-02T17:27:07+08:00 ] 127.0.0.1 GET /favicon.ico
+[ info ] www.qyice.co/favicon.ico [运行时间：0.031564s][吞吐率：31.68req/s] [内存消耗：819.36kb] [文件加载：29]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7288054784; pgv_si=s1184136192',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/favicon_ico' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-02T17:27:18+08:00 ] 127.0.0.1 GET /index/leacots/index.html
+[ info ] www.qyice.co/index/leacots/index.html [运行时间：0.040340s][吞吐率：24.79req/s] [内存消耗：1,267.30kb] [文件加载：38]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'leacots',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'pgv_pvi=7288054784; pgv_si=s1184136192',
+  'connection' => 'close',
+  'referer' => 'http://www.qyice.co/index/leacots/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/leacots/index_html' => '',
+)
+[ info ] [ RUN ] app\index\controller\Leacots->index[ C:\Users\Administrator\Desktop\file\application\index\controller\Leacots.php ]
+[ info ] [ VIEW ] C:\Users\Administrator\Desktop\file/application/index\view\leacots\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-02T17:27:18+08:00 ] 127.0.0.1 GET /favicon.ico
+[ info ] www.qyice.co/favicon.ico [运行时间：0.054761s][吞吐率：18.26req/s] [内存消耗：819.67kb] [文件加载：29]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'cookie' => 'pgv_pvi=7288054784; pgv_si=s1184136192',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/favicon_ico' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-02T17:27:20+08:00 ] 127.0.0.1 GET /index/index/index.html
+[ info ] www.qyice.co/index/index/index.html [运行时间：0.040468s][吞吐率：24.71req/s] [内存消耗：1,250.80kb] [文件加载：37]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'pgv_pvi=7288054784; pgv_si=s1184136192',
+  'connection' => 'close',
+  'referer' => 'http://www.qyice.co/index/leacots/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/index_html' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\Users\Administrator\Desktop\file\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\Users\Administrator\Desktop\file/application/index\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-02T17:27:20+08:00 ] 127.0.0.1 GET /favicon.ico
+[ info ] www.qyice.co/favicon.ico [运行时间：0.026463s][吞吐率：37.79req/s] [内存消耗：819.36kb] [文件加载：29]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7288054784; pgv_si=s1184136192',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/favicon_ico' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-02T17:27:21+08:00 ] 127.0.0.1 GET /index/whisper/index.html
+[ info ] www.qyice.co/index/whisper/index.html [运行时间：0.031457s][吞吐率：31.79req/s] [内存消耗：1,311.23kb] [文件加载：38]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'whisper',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'pgv_pvi=7288054784; pgv_si=s1184136192',
+  'connection' => 'close',
+  'referer' => 'http://www.qyice.co/index/index/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/whisper/index_html' => '',
+)
+[ info ] [ RUN ] app\index\controller\Whisper->index[ C:\Users\Administrator\Desktop\file\application\index\controller\Whisper.php ]
+[ info ] [ VIEW ] C:\Users\Administrator\Desktop\file/application/index\view\whisper\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-02T17:27:22+08:00 ] 127.0.0.1 GET /favicon.ico
+[ info ] www.qyice.co/favicon.ico [运行时间：0.030899s][吞吐率：32.36req/s] [内存消耗：819.36kb] [文件加载：29]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7288054784; pgv_si=s1184136192',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/favicon_ico' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-02T17:27:22+08:00 ] 127.0.0.1 GET /index/index/index.html
+[ info ] www.qyice.co/index/index/index.html [运行时间：0.025437s][吞吐率：39.31req/s] [内存消耗：1,108.93kb] [文件加载：35]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'pgv_pvi=7288054784; pgv_si=s1184136192',
+  'connection' => 'close',
+  'referer' => 'http://www.qyice.co/index/whisper/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/index_html' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\Users\Administrator\Desktop\file\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\Users\Administrator\Desktop\file/application/index\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-02T17:27:22+08:00 ] 127.0.0.1 GET /favicon.ico
+[ info ] www.qyice.co/favicon.ico [运行时间：0.041371s][吞吐率：24.17req/s] [内存消耗：819.36kb] [文件加载：29]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7288054784; pgv_si=s1184136192',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/favicon_ico' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-02T17:27:25+08:00 ] 127.0.0.1 GET /index/details/index.html
+[ info ] www.qyice.co/index/details/index.html [运行时间：0.027160s][吞吐率：36.82req/s] [内存消耗：1,198.55kb] [文件加载：37]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'details',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'pgv_pvi=7288054784; pgv_si=s1184136192',
+  'connection' => 'close',
+  'referer' => 'http://www.qyice.co/index/index/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/details/index_html' => '',
+)
+[ info ] [ RUN ] app\index\controller\Details->index[ C:\Users\Administrator\Desktop\file\application\index\controller\Details.php ]
+[ info ] [ VIEW ] C:\Users\Administrator\Desktop\file/application/index\view\details\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-02T17:27:25+08:00 ] 127.0.0.1 GET /index/res/layui/css/layui.css
+[ info ] www.qyice.co/index/res/layui/css/layui.css [运行时间：0.038260s][吞吐率：26.14req/s] [内存消耗：822.28kb] [文件加载：30]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'res',
+    2 => 'layui',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7288054784; pgv_si=s1184136192',
+  'connection' => 'close',
+  'referer' => 'http://www.qyice.co/index/details/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/css,*/*;q=0.1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/res/layui/css/layui_css' => '',
+  'css' => 'layui.css',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-02T17:27:25+08:00 ] 127.0.0.1 GET /index/res/layui/layui.js
+[ info ] www.qyice.co/index/res/layui/layui.js [运行时间：0.034052s][吞吐率：29.37req/s] [内存消耗：821.95kb] [文件加载：30]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'res',
+    2 => 'layui',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7288054784; pgv_si=s1184136192',
+  'connection' => 'close',
+  'referer' => 'http://www.qyice.co/index/details/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/res/layui/layui_js' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-02T17:27:26+08:00 ] 127.0.0.1 GET /index/res/css/main.css
+[ info ] www.qyice.co/index/res/css/main.css [运行时间：0.020834s][吞吐率：48.00req/s] [内存消耗：821.96kb] [文件加载：30]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'res',
+    2 => 'css',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7288054784; pgv_si=s1184136192',
+  'connection' => 'close',
+  'referer' => 'http://www.qyice.co/index/details/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/css,*/*;q=0.1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/res/css/main_css' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-02T17:27:26+08:00 ] 127.0.0.1 GET /index/res/img/logo.png
+[ info ] www.qyice.co/index/res/img/logo.png [运行时间：0.044342s][吞吐率：22.55req/s] [内存消耗：821.70kb] [文件加载：30]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'res',
+    2 => 'img',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7288054784; pgv_si=s1184136192',
+  'connection' => 'close',
+  'referer' => 'http://www.qyice.co/index/details/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/res/img/logo_png' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-02T17:27:27+08:00 ] 127.0.0.1 GET /favicon.ico
+[ info ] www.qyice.co/favicon.ico [运行时间：0.023846s][吞吐率：41.94req/s] [内存消耗：819.36kb] [文件加载：29]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7288054784; pgv_si=s1184136192',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/favicon_ico' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-02T17:27:27+08:00 ] 127.0.0.1 GET /index/res/img/wz_img1.jpg
+[ info ] www.qyice.co/index/res/img/wz_img1.jpg [运行时间：0.037071s][吞吐率：26.98req/s] [内存消耗：821.95kb] [文件加载：30]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'res',
+    2 => 'img',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7288054784; pgv_si=s1184136192',
+  'connection' => 'close',
+  'referer' => 'http://www.qyice.co/index/details/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/res/img/wz_img1_jpg' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-02T17:27:28+08:00 ] 127.0.0.1 GET /index/res/img/header.png
+[ info ] www.qyice.co/index/res/img/header.png [运行时间：0.039206s][吞吐率：25.51req/s] [内存消耗：822.52kb] [文件加载：30]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'res',
+    2 => 'img',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7288054784; pgv_si=s1184136192',
+  'connection' => 'close',
+  'referer' => 'http://www.qyice.co/index/details/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/res/img/header_png' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-02T17:27:28+08:00 ] 127.0.0.1 GET /index/res/img/down_img.jpg
+[ info ] www.qyice.co/index/res/img/down_img.jpg [运行时间：0.041381s][吞吐率：24.17req/s] [内存消耗：822.52kb] [文件加载：30]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'res',
+    2 => 'img',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7288054784; pgv_si=s1184136192',
+  'connection' => 'close',
+  'referer' => 'http://www.qyice.co/index/details/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/res/img/down_img_jpg' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-02T17:27:28+08:00 ] 127.0.0.1 GET /index/res/img/erweima.jpg
+[ info ] www.qyice.co/index/res/img/erweima.jpg [运行时间：0.044903s][吞吐率：22.27req/s] [内存消耗：822.52kb] [文件加载：30]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'res',
+    2 => 'img',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7288054784; pgv_si=s1184136192',
+  'connection' => 'close',
+  'referer' => 'http://www.qyice.co/index/details/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/res/img/erweima_jpg' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-02T17:28:30+08:00 ] 127.0.0.1 GET /index/details/index.html
+[ info ] www.qyice.co/index/details/index.html [运行时间：0.059263s][吞吐率：16.87req/s] [内存消耗：1,267.30kb] [文件加载：38]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'details',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'pgv_pvi=7288054784; pgv_si=s1184136192',
+  'connection' => 'close',
+  'referer' => 'http://www.qyice.co/index/index/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/details/index_html' => '',
+)
+[ info ] [ RUN ] app\index\controller\Details->index[ C:\Users\Administrator\Desktop\file\application\index\controller\Details.php ]
+[ info ] [ VIEW ] C:\Users\Administrator\Desktop\file/application/index\view\details\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-02T17:28:30+08:00 ] 127.0.0.1 GET /index/res/img/wz_img1.jpg
+[ info ] www.qyice.co/index/res/img/wz_img1.jpg [运行时间：0.038025s][吞吐率：26.30req/s] [内存消耗：821.95kb] [文件加载：30]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'res',
+    2 => 'img',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7288054784; pgv_si=s1184136192',
+  'connection' => 'close',
+  'referer' => 'http://www.qyice.co/index/details/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/res/img/wz_img1_jpg' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-02T17:28:30+08:00 ] 127.0.0.1 GET /index/res/img/header.png
+[ info ] www.qyice.co/index/res/img/header.png [运行时间：0.041798s][吞吐率：23.92req/s] [内存消耗：821.95kb] [文件加载：30]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'res',
+    2 => 'img',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7288054784; pgv_si=s1184136192',
+  'connection' => 'close',
+  'referer' => 'http://www.qyice.co/index/details/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/res/img/header_png' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-02T17:28:30+08:00 ] 127.0.0.1 GET /favicon.ico
+[ info ] www.qyice.co/favicon.ico [运行时间：0.036135s][吞吐率：27.67req/s] [内存消耗：819.67kb] [文件加载：29]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'cookie' => 'pgv_pvi=7288054784; pgv_si=s1184136192',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/favicon_ico' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-02T17:29:10+08:00 ] 127.0.0.1 GET /index/details/index.html
+[ info ] www.qyice.co/index/details/index.html [运行时间：0.043592s][吞吐率：22.94req/s] [内存消耗：1,267.30kb] [文件加载：38]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'details',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'pgv_pvi=7288054784; pgv_si=s1184136192',
+  'connection' => 'close',
+  'referer' => 'http://www.qyice.co/index/index/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/details/index_html' => '',
+)
+[ info ] [ RUN ] app\index\controller\Details->index[ C:\Users\Administrator\Desktop\file\application\index\controller\Details.php ]
+[ info ] [ VIEW ] C:\Users\Administrator\Desktop\file/application/index\view\details\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-02T17:29:10+08:00 ] 127.0.0.1 GET /favicon.ico
+[ info ] www.qyice.co/favicon.ico [运行时间：0.029346s][吞吐率：34.08req/s] [内存消耗：819.67kb] [文件加载：29]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'cookie' => 'pgv_pvi=7288054784; pgv_si=s1184136192',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/favicon_ico' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-02T17:31:10+08:00 ] 127.0.0.1 GET /index/whisper/index.html
+[ info ] www.qyice.co/index/whisper/index.html [运行时间：0.031470s][吞吐率：31.78req/s] [内存消耗：1,136.48kb] [文件加载：36]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'whisper',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'pgv_pvi=7288054784; pgv_si=s1184136192',
+  'connection' => 'close',
+  'referer' => 'http://www.qyice.co/index/details/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/whisper/index_html' => '',
+)
+[ info ] [ RUN ] app\index\controller\Whisper->index[ C:\Users\Administrator\Desktop\file\application\index\controller\Whisper.php ]
+[ info ] [ VIEW ] C:\Users\Administrator\Desktop\file/application/index\view\whisper\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-02T17:31:10+08:00 ] 127.0.0.1 GET /favicon.ico
+[ info ] www.qyice.co/favicon.ico [运行时间：0.036238s][吞吐率：27.60req/s] [内存消耗：819.36kb] [文件加载：29]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7288054784; pgv_si=s1184136192',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/favicon_ico' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-02T17:39:58+08:00 ] 127.0.0.1 GET /index/whisper/index.html
+[ info ] www.qyice.co/index/whisper/index.html [运行时间：0.033349s][吞吐率：29.99req/s] [内存消耗：1,137.12kb] [文件加载：36]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'whisper',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'pgv_pvi=7288054784; pgv_si=s1184136192',
+  'connection' => 'close',
+  'referer' => 'http://www.qyice.co/index/details/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/whisper/index_html' => '',
+)
+[ info ] [ RUN ] app\index\controller\Whisper->index[ C:\Users\Administrator\Desktop\file\application\index\controller\Whisper.php ]
+[ info ] [ VIEW ] C:\Users\Administrator\Desktop\file/application/index\view\whisper\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-02T17:39:58+08:00 ] 127.0.0.1 GET /favicon.ico
+[ info ] www.qyice.co/favicon.ico [运行时间：0.042094s][吞吐率：23.76req/s] [内存消耗：819.67kb] [文件加载：29]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'cookie' => 'pgv_pvi=7288054784; pgv_si=s1184136192',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/favicon_ico' => '',
+)
+[ info ] [ LOG ] INIT File

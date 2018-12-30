@@ -1,0 +1,115 @@
+---------------------------------------------------------------
+[ 2018-12-24T23:40:13+08:00 ] 101.206.166.81 GET /
+[ info ] www.qyice.top/ [运行时间：0.025459s][吞吐率：39.28req/s] [内存消耗：1,879.16kb] [文件加载：43]
+[ info ] [ LANG ] /www/wwwroot/blog/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'order=id%20desc; memSize=1839; BT_PANEL_6=29ccabb1-fbc0-4e7d-a53e-387c190566b4.XoO_IFvw7pgYI2YKvxIctYO4qDU; request_token=11574922eaf92dff46f28af1f384f815; uploadSize=1073741824; rank=a; sites_path=/www/wwwroot; serverType=apache; Path=/www/wwwroot; BatchPaste=null; SetName=; force=0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/blog/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/blog/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-24T23:40:16+08:00 ] 101.206.166.81 GET /favicon.ico
+[ info ] www.qyice.top/favicon.ico [运行时间：0.013638s][吞吐率：73.32req/s] [内存消耗：1,321.87kb] [文件加载：35]
+[ info ] [ LANG ] /www/wwwroot/blog/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'order=id%20desc; memSize=1839; BT_PANEL_6=29ccabb1-fbc0-4e7d-a53e-387c190566b4.XoO_IFvw7pgYI2YKvxIctYO4qDU; request_token=11574922eaf92dff46f28af1f384f815; uploadSize=1073741824; rank=a; sites_path=/www/wwwroot; serverType=apache; Path=/www/wwwroot; BatchPaste=null; SetName=; force=0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qyice.top/',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+  '/favicon_ico' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-24T23:40:56+08:00 ] 101.206.166.81 GET /
+[ info ] qyice.top/ [运行时间：0.016363s][吞吐率：61.11req/s] [内存消耗：1,644.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/blog/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'if-modified-since' => 'Tue, 23 Oct 2018 10:00:02 GMT',
+  'if-none-match' => '"52e-578e26ee50c80-gzip"',
+  'cookie' => 'request_token=09141105e0979c5874a154b707d8cdf9; order=id%20desc; memSize=1839; sites_path=/www/wwwroot; serverType=apache; force=0; vcodesum=3; uploadSize=1073741824; rank=a; SetName=; Path=/www/wwwroot/website/data; pnull=1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/blog/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/blog/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-24T23:41:24+08:00 ] 101.206.166.81 GET /pass
+[ info ] qyice.top/pass [运行时间：0.013855s][吞吐率：72.18req/s] [内存消耗：1,321.68kb] [文件加载：35]
+[ info ] [ LANG ] /www/wwwroot/blog/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pass',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'request_token=09141105e0979c5874a154b707d8cdf9; order=id%20desc; memSize=1839; sites_path=/www/wwwroot; serverType=apache; force=0; vcodesum=3; uploadSize=1073741824; rank=a; SetName=; Path=/www/wwwroot/website/data; pnull=1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'qyice.top',
+)
+[ info ] [ PARAM ] array (
+  '/pass' => '',
+)
+[ info ] [ LOG ] INIT File

@@ -1,0 +1,3274 @@
+---------------------------------------------------------------
+[ 2018-12-29T03:25:39+08:00 ] 89.248.172.90 GET http://www.qyice.top/
+[ info ] www.qyice.tophttp://www.qyice.top/ [运行时间：0.016373s][吞吐率：61.08req/s] [内存消耗：1,645.13kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'accept-charset' => 'ISO-8859-1,utf-8;q=0.7,*;q=0.7',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-language' => 'en-gb,en;q=0.5',
+  'proxy-connection' => 'Keep-Alive',
+  'referer' => 'http://httpheader.net/',
+  'accept-encoding' => 'deflate, gzip',
+  'host' => 'www.qyice.top',
+  'user-agent' => 'Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.28) Gecko/20120306 Firefox/3.6.28 (.NET CLR 3.5.30729)',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T03:26:04+08:00 ] 223.166.75.113 GET http://www.qyice.top/
+[ info ] www.qyice.tophttp://www.qyice.top/ [运行时间：0.015816s][吞吐率：63.23req/s] [内存消耗：1,643.08kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'user-agent' => 'Mozilla/5.01682558 Mozilla/5.0 (Windows; U; Windows NT 5.2; en-US) AppleWebKit/537.36(KHTML, like Gecko) Chrome/40.0.2214.89 Safari/537.36',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'proxy-connection' => 'Keep-Alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T03:26:05+08:00 ] 124.88.64.219 GET http://www.qyice.top/
+[ info ] www.qyice.tophttp://www.qyice.top/ [运行时间：0.016073s][吞吐率：62.22req/s] [内存消耗：1,643.70kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like GeckoMozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'proxy-connection' => 'Keep-Alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T03:26:06+08:00 ] 124.90.48.173 GET http://www.qyice.top/
+[ info ] www.qyice.tophttp://www.qyice.top/ [运行时间：0.015032s][吞吐率：66.52req/s] [内存消耗：1,642.72kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'proxy-connection' => 'Keep-Alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T03:26:08+08:00 ] 222.82.49.43 GET http://www.qyice.top/
+[ info ] www.qyice.tophttp://www.qyice.top/ [运行时间：0.016641s][吞吐率：60.09req/s] [内存消耗：1,642.86kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'proxy-connection' => 'Keep-Alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T03:26:13+08:00 ] 124.235.138.59 GET http://www.qyice.top/
+[ info ] www.qyice.tophttp://www.qyice.top/ [运行时间：0.016222s][吞吐率：61.64req/s] [内存消耗：1,642.86kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'proxy-connection' => 'Keep-Alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T03:26:13+08:00 ] 182.245.44.247 GET http://www.qyice.top/english/
+[ info ] www.qyice.tophttp://www.qyice.top/english/ [运行时间：0.013236s][吞吐率：75.55req/s] [内存消耗：1,322.95kb] [文件加载：35]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'english',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'proxy-connection' => 'Keep-Alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+  '/english/' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T03:26:14+08:00 ] 175.184.164.19 GET http://www.qyice.top/
+[ info ] www.qyice.tophttp://www.qyice.top/ [运行时间：0.016521s][吞吐率：60.53req/s] [内存消耗：1,642.72kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'proxy-connection' => 'Keep-Alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T03:26:14+08:00 ] 101.249.179.44 GET http://www.qyice.top/
+[ info ] www.qyice.tophttp://www.qyice.top/ [运行时间：0.015788s][吞吐率：63.34req/s] [内存消耗：1,642.72kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'proxy-connection' => 'Keep-Alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T03:36:26+08:00 ] 47.92.120.136 GET /
+[ info ] qyice.top/ [运行时间：0.015246s][吞吐率：65.59req/s] [内存消耗：1,639.90kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+  'host' => 'qyice.top',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_2 like Mac OS X)',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T05:08:16+08:00 ] 112.47.17.119 GET /
+[ info ] www.qyice.top/ [运行时间：0.015813s][吞吐率：63.24req/s] [内存消耗：1,641.70kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.qyice.top',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'cookie' => '__cloudCache__=1; qh[360]=1;',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.85 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T05:08:17+08:00 ] 112.47.17.119 GET /
+[ info ] www.qyice.top/ [运行时间：0.015892s][吞吐率：62.92req/s] [内存消耗：1,641.70kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.qyice.top',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'cookie' => '__cloudCache__=1; qh[360]=1;',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.85 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T05:08:18+08:00 ] 112.47.17.119 GET /
+[ info ] www.qyice.top/ [运行时间：0.014948s][吞吐率：66.90req/s] [内存消耗：1,641.70kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.qyice.top',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'cookie' => '__cloudCache__=1; qh[360]=1;',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.85 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T08:39:08+08:00 ] 202.108.211.56 GET /
+[ info ] www.qyice.top/ [运行时间：0.018994s][吞吐率：52.65req/s] [内存消耗：1,644.65kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+  'upgrade-insecure-requests' => '1',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.21 (KHTML, like Gecko) Chrome/19.0.1042.0 Safari/535.21',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T08:44:48+08:00 ] 101.226.233.156 GET /
+[ info ] qyice.top/ [运行时间：0.015686s][吞吐率：63.75req/s] [内存消耗：1,641.95kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'qyice.top',
+  'user-agent' => 'Mozilla/5.0+(Windows+NT+6.2;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/45.0.2454.101+Safari/537.36',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'connection' => 'close',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9',
+  'accept-encoding' => 'gzip',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T09:37:19+08:00 ] 139.224.238.50 GET /
+[ info ] www.qyice.top/ [运行时间：0.016510s][吞吐率：60.57req/s] [内存消耗：1,640.09kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+  'host' => 'www.qyice.top',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:36.0) Gecko/20100101 Firefox/36.0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T09:59:41+08:00 ] 47.92.130.247 GET /
+[ info ] qyice.top/ [运行时间：0.015759s][吞吐率：63.46req/s] [内存消耗：1,640.05kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+  'host' => 'qyice.top',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:36.0) Gecko/20100101 Firefox/36.0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T11:31:06+08:00 ] 52.53.201.78 GET /
+[ info ] www.qyice.top/ [运行时间：0.017343s][吞吐率：57.66req/s] [内存消耗：1,640.07kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T11:39:03+08:00 ] 217.61.109.220 GET /
+[ info ] www.qyice.top/ [运行时间：0.016794s][吞吐率：59.55req/s] [内存消耗：1,641.09kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'referer' => 'http://47.105.127.117:80/',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 zgrab/0.x',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:55+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.051692s][吞吐率：19.35req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:55+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.063363s][吞吐率：15.78req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:55+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.098358s][吞吐率：10.17req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:55+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.076248s][吞吐率：13.12req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:55+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.088557s][吞吐率：11.29req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:55+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.112161s][吞吐率：8.92req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:55+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.123869s][吞吐率：8.07req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:55+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.135809s][吞吐率：7.36req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:55+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.079392s][吞吐率：12.60req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:55+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.124757s][吞吐率：8.02req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:55+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.190674s][吞吐率：5.24req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:55+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.190724s][吞吐率：5.24req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:55+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.191701s][吞吐率：5.22req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:55+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.201118s][吞吐率：4.97req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:55+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.191722s][吞吐率：5.22req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:55+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.159688s][吞吐率：6.26req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:55+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.120739s][吞吐率：8.28req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:55+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.092338s][吞吐率：10.83req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:55+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.109576s][吞吐率：9.13req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:55+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.121917s][吞吐率：8.20req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:55+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.102329s][吞吐率：9.77req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:55+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.060911s][吞吐率：16.42req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:55+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.148621s][吞吐率：6.73req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:55+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.192488s][吞吐率：5.20req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:55+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.182524s][吞吐率：5.48req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:55+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.081645s][吞吐率：12.25req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:55+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.105454s][吞吐率：9.48req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:55+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.094643s][吞吐率：10.57req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:55+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.074386s][吞吐率：13.44req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:55+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.118830s][吞吐率：8.42req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:55+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.065309s][吞吐率：15.31req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:55+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.139391s][吞吐率：7.17req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:55+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.053113s][吞吐率：18.83req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:55+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.063778s][吞吐率：15.68req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.076545s][吞吐率：13.06req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.088065s][吞吐率：11.36req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.101532s][吞吐率：9.85req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.113492s][吞吐率：8.81req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.069437s][吞吐率：14.40req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.059373s][吞吐率：16.84req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.126636s][吞吐率：7.90req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.138557s][吞吐率：7.22req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.051292s][吞吐率：19.50req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.088143s][吞吐率：11.35req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.078071s][吞吐率：12.81req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.057042s][吞吐率：17.53req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.124480s][吞吐率：8.03req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.114936s][吞吐率：8.70req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.048884s][吞吐率：20.46req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.071852s][吞吐率：13.92req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.105572s][吞吐率：9.47req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.139942s][吞吐率：7.15req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.129737s][吞吐率：7.71req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.108531s][吞吐率：9.21req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.121183s][吞吐率：8.25req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.089472s][吞吐率：11.18req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.079217s][吞吐率：12.62req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.058337s][吞吐率：17.14req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.048361s][吞吐率：20.68req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.103601s][吞吐率：9.65req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.072390s][吞吐率：13.81req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.126022s][吞吐率：7.94req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.116241s][吞吐率：8.60req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.118001s][吞吐率：8.47req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.105995s][吞吐率：9.43req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.096054s][吞吐率：10.41req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.086033s][吞吐率：11.62req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.082008s][吞吐率：12.19req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.072002s][吞吐率：13.89req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.061920s][吞吐率：16.15req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.093361s][吞吐率：10.71req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.105402s][吞吐率：9.49req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.150561s][吞吐率：6.64req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.084333s][吞吐率：11.86req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.074412s][吞吐率：13.44req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.132419s][吞吐率：7.55req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.143817s][吞吐率：6.95req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.066539s][吞吐率：15.03req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.223448s][吞吐率：4.48req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.136309s][吞吐率：7.34req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.097599s][吞吐率：10.25req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.124261s][吞吐率：8.05req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.121725s][吞吐率：8.22req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.105151s][吞吐率：9.51req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.095340s][吞吐率：10.49req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.074233s][吞吐率：13.47req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.053271s][吞吐率：18.77req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.065246s][吞吐率：15.33req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.088294s][吞吐率：11.33req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.103422s][吞吐率：9.67req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.115232s][吞吐率：8.68req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.138676s][吞吐率：7.21req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.150717s][吞吐率：6.63req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.130420s][吞吐率：7.67req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.086445s][吞吐率：11.57req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.098490s][吞吐率：10.15req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.076809s][吞吐率：13.02req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.066808s][吞吐率：14.97req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:56+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.057483s][吞吐率：17.40req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T13:26:57+08:00 ] 120.76.54.183 GET /
+[ info ] www.qyice.top/ [运行时间：0.017371s][吞吐率：57.57req/s] [内存消耗：1,641.12kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'python-requests/2.12.4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T18:12:06+08:00 ] 106.15.176.145 GET /
+[ info ] www.qyice.top/ [运行时间：0.015551s][吞吐率：64.30req/s] [内存消耗：1,639.98kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+  'host' => 'www.qyice.top',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D))',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T18:28:17+08:00 ] 47.92.120.136 GET /
+[ info ] qyice.top/ [运行时间：0.014760s][吞吐率：67.75req/s] [内存消耗：1,639.95kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+  'host' => 'qyice.top',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D))',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T18:32:38+08:00 ] 39.107.126.72 GET /
+[ info ] www.qyice.top/ [运行时间：0.015811s][吞吐率：63.25req/s] [内存消耗：1,639.98kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+  'host' => 'www.qyice.top',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D))',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T21:12:29+08:00 ] 60.205.215.180 GET /
+[ info ] www.qyice.top/ [运行时间：0.015173s][吞吐率：65.91req/s] [内存消耗：1,639.96kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'Keep-Alive',
+  'host' => 'www.qyice.top',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (compatible, MSIE 11, Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T21:29:31+08:00 ] 54.80.136.78 GET /
+[ info ] www.qyice.top/ [运行时间：0.015745s][吞吐率：63.51req/s] [内存消耗：1,641.66kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.2;en-US) AppleWebKit/537.32.36 (KHTML, live Gecko) Chrome/50.0.3013.60 Safari/537.32',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-29T21:56:51+08:00 ] 60.170.122.185 GET /
+[ info ] www.qyice.top/ [运行时间：0.014571s][吞吐率：68.63req/s] [内存消耗：1,641.69kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'referer' => 'http://47.105.127.117:80/',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.122 Safari/537.36 SE 2.X MetaSr 1.0',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File

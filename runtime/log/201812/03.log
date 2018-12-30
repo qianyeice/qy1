@@ -1,0 +1,1250 @@
+---------------------------------------------------------------
+[ 2018-12-03T12:09:53+08:00 ] 127.0.0.1 GET /index/index/em
+[ info ] www.qyice.co/index/index/em [运行时间：0.201885s][吞吐率：4.95req/s] [内存消耗：1,162.52kb] [文件加载：36]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'em',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'pgv_pvi=7288054784',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/em' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->em[ C:\Users\Administrator\Desktop\file\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\Users\Administrator\Desktop\file/application/index\view\index\em.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-03T12:09:53+08:00 ] 127.0.0.1 GET /favicon.ico
+[ info ] www.qyice.co/favicon.ico [运行时间：0.045858s][吞吐率：21.81req/s] [内存消耗：819.28kb] [文件加载：29]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7288054784',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/favicon_ico' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-03T12:18:17+08:00 ] 127.0.0.1 GET /index/index/em
+[ info ] www.qyice.co/index/index/em [运行时间：0.115398s][吞吐率：8.67req/s] [内存消耗：1,212.64kb] [文件加载：37]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'em',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'pgv_pvi=7288054784',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/em' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->em[ C:\Users\Administrator\Desktop\file\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\Users\Administrator\Desktop\file/application/index\view\index\em.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-03T12:18:17+08:00 ] 127.0.0.1 GET /favicon.ico
+[ info ] www.qyice.co/favicon.ico [运行时间：0.037512s][吞吐率：26.66req/s] [内存消耗：819.66kb] [文件加载：29]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'cookie' => 'pgv_pvi=7288054784',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/favicon_ico' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-03T12:18:47+08:00 ] 127.0.0.1 GET /index/index/em
+[ info ] www.qyice.co/index/index/em [运行时间：0.095727s][吞吐率：10.45req/s] [内存消耗：1,100.90kb] [文件加载：35]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'em',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'pgv_pvi=7288054784',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/em' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->em[ C:\Users\Administrator\Desktop\file\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\Users\Administrator\Desktop\file/application/index\view\index\em.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-03T12:18:48+08:00 ] 127.0.0.1 GET /favicon.ico
+[ info ] www.qyice.co/favicon.ico [运行时间：0.032974s][吞吐率：30.33req/s] [内存消耗：819.66kb] [文件加载：29]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'cookie' => 'pgv_pvi=7288054784',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/favicon_ico' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-03T12:18:58+08:00 ] 127.0.0.1 GET /index/index/emsend.html?email=2656798247%40qq.com
+[ info ] www.qyice.co/index/index/emsend.html?email=2656798247%40qq.com [运行时间：0.057457s][吞吐率：17.40req/s] [内存消耗：1,086.95kb] [文件加载：36]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'emsend',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7288054784',
+  'connection' => 'close',
+  'x-requested-with' => 'XMLHttpRequest',
+  'referer' => 'http://www.qyice.co/index/index/em',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/emsend_html' => '',
+  'email' => '2656798247@qq.com',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-03T12:19:29+08:00 ] 127.0.0.1 GET /index/index/emsend.html?email=2656798247%40qq.com
+[ info ] www.qyice.co/index/index/emsend.html?email=2656798247%40qq.com [运行时间：0.390145s][吞吐率：2.56req/s] [内存消耗：1,129.70kb] [文件加载：38]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'emsend',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7288054784',
+  'connection' => 'close',
+  'x-requested-with' => 'XMLHttpRequest',
+  'referer' => 'http://www.qyice.co/index/index/em',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/emsend_html' => '',
+  'email' => '2656798247@qq.com',
+)
+[ info ] [ RUN ] app\index\controller\Index->emsend[ C:\Users\Administrator\Desktop\file\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [2]fsockopen(): unable to connect to mx1.qq.com:0 (Failed to parse address &quot;mx1.qq.com&quot;)[C:\Users\Administrator\Desktop\file\application\index\controller\Email.php:165]
+[ error ] [2]fsockopen(): unable to connect to mx2.qq.com:0 (Failed to parse address &quot;mx2.qq.com&quot;)[C:\Users\Administrator\Desktop\file\application\index\controller\Email.php:165]
+[ error ] [2]fsockopen(): unable to connect to mx3.qq.com:0 (Failed to parse address &quot;mx3.qq.com&quot;)[C:\Users\Administrator\Desktop\file\application\index\controller\Email.php:165]
+---------------------------------------------------------------
+[ 2018-12-03T12:21:02+08:00 ] 127.0.0.1 GET /index/index/em
+[ info ] www.qyice.co/index/index/em [运行时间：0.103924s][吞吐率：9.62req/s] [内存消耗：1,213.06kb] [文件加载：37]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'em',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'pgv_pvi=7288054784',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/em' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->em[ C:\Users\Administrator\Desktop\file\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\Users\Administrator\Desktop\file/application/index\view\index\em.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-03T12:21:02+08:00 ] 127.0.0.1 GET /favicon.ico
+[ info ] www.qyice.co/favicon.ico [运行时间：0.043365s][吞吐率：23.06req/s] [内存消耗：819.66kb] [文件加载：29]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'cookie' => 'pgv_pvi=7288054784',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/favicon_ico' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-03T12:21:04+08:00 ] 127.0.0.1 GET /index/index/emsend.html?email=2656798247%40qq.com
+[ info ] www.qyice.co/index/index/emsend.html?email=2656798247%40qq.com [运行时间：0.063298s][吞吐率：15.80req/s] [内存消耗：1,130.70kb] [文件加载：38]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'emsend',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7288054784',
+  'connection' => 'close',
+  'x-requested-with' => 'XMLHttpRequest',
+  'referer' => 'http://www.qyice.co/index/index/em',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/emsend_html' => '',
+  'email' => '2656798247@qq.com',
+)
+[ info ] [ RUN ] app\index\controller\Index->emsend[ C:\Users\Administrator\Desktop\file\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [2]fsockopen(): unable to connect to mx1.qq.com:0 (Failed to parse address &quot;mx1.qq.com&quot;)[C:\Users\Administrator\Desktop\file\application\index\controller\Email.php:165]
+[ error ] [2]fsockopen(): unable to connect to mx2.qq.com:0 (Failed to parse address &quot;mx2.qq.com&quot;)[C:\Users\Administrator\Desktop\file\application\index\controller\Email.php:165]
+[ error ] [2]fsockopen(): unable to connect to mx3.qq.com:0 (Failed to parse address &quot;mx3.qq.com&quot;)[C:\Users\Administrator\Desktop\file\application\index\controller\Email.php:165]
+---------------------------------------------------------------
+[ 2018-12-03T12:22:28+08:00 ] 127.0.0.1 GET /index/index/em
+[ info ] www.qyice.co/index/index/em [运行时间：0.078745s][吞吐率：12.70req/s] [内存消耗：1,101.89kb] [文件加载：35]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'em',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'pgv_pvi=7288054784',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/em' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->em[ C:\Users\Administrator\Desktop\file\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\Users\Administrator\Desktop\file/application/index\view\index\em.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-03T12:22:29+08:00 ] 127.0.0.1 GET /favicon.ico
+[ info ] www.qyice.co/favicon.ico [运行时间：0.050040s][吞吐率：19.98req/s] [内存消耗：819.66kb] [文件加载：29]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'cookie' => 'pgv_pvi=7288054784',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/favicon_ico' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-03T12:22:30+08:00 ] 127.0.0.1 GET /index/index/emsend.html?email=2656798247%40qq.com
+[ info ] www.qyice.co/index/index/emsend.html?email=2656798247%40qq.com [运行时间：0.062910s][吞吐率：15.90req/s] [内存消耗：1,130.70kb] [文件加载：38]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'emsend',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7288054784',
+  'connection' => 'close',
+  'x-requested-with' => 'XMLHttpRequest',
+  'referer' => 'http://www.qyice.co/index/index/em',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/emsend_html' => '',
+  'email' => '2656798247@qq.com',
+)
+[ info ] [ RUN ] app\index\controller\Index->emsend[ C:\Users\Administrator\Desktop\file\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [2]fsockopen(): unable to connect to mx1.qq.com:0 (Failed to parse address &quot;mx1.qq.com&quot;)[C:\Users\Administrator\Desktop\file\application\index\controller\Email.php:165]
+[ error ] [2]fsockopen(): unable to connect to mx2.qq.com:0 (Failed to parse address &quot;mx2.qq.com&quot;)[C:\Users\Administrator\Desktop\file\application\index\controller\Email.php:165]
+[ error ] [2]fsockopen(): unable to connect to mx3.qq.com:0 (Failed to parse address &quot;mx3.qq.com&quot;)[C:\Users\Administrator\Desktop\file\application\index\controller\Email.php:165]
+---------------------------------------------------------------
+[ 2018-12-03T12:23:14+08:00 ] 127.0.0.1 GET /index/index/em
+[ info ] www.qyice.co/index/index/em [运行时间：0.096688s][吞吐率：10.34req/s] [内存消耗：1,101.89kb] [文件加载：35]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'em',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'pgv_pvi=7288054784',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/em' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->em[ C:\Users\Administrator\Desktop\file\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\Users\Administrator\Desktop\file/application/index\view\index\em.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-03T12:23:15+08:00 ] 127.0.0.1 GET /favicon.ico
+[ info ] www.qyice.co/favicon.ico [运行时间：0.047430s][吞吐率：21.08req/s] [内存消耗：819.66kb] [文件加载：29]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'cookie' => 'pgv_pvi=7288054784',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/favicon_ico' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-03T12:23:15+08:00 ] 127.0.0.1 GET /index/index/emsend.html?email=2656798247%40qq.com
+[ info ] www.qyice.co/index/index/emsend.html?email=2656798247%40qq.com [运行时间：0.108494s][吞吐率：9.22req/s] [内存消耗：1,130.70kb] [文件加载：38]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'emsend',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7288054784',
+  'connection' => 'close',
+  'x-requested-with' => 'XMLHttpRequest',
+  'referer' => 'http://www.qyice.co/index/index/em',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/emsend_html' => '',
+  'email' => '2656798247@qq.com',
+)
+[ info ] [ RUN ] app\index\controller\Index->emsend[ C:\Users\Administrator\Desktop\file\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [2]fsockopen(): unable to connect to mx1.qq.com:0 (Failed to parse address &quot;mx1.qq.com&quot;)[C:\Users\Administrator\Desktop\file\application\index\controller\Email.php:165]
+[ error ] [2]fsockopen(): unable to connect to mx2.qq.com:0 (Failed to parse address &quot;mx2.qq.com&quot;)[C:\Users\Administrator\Desktop\file\application\index\controller\Email.php:165]
+[ error ] [2]fsockopen(): unable to connect to mx3.qq.com:0 (Failed to parse address &quot;mx3.qq.com&quot;)[C:\Users\Administrator\Desktop\file\application\index\controller\Email.php:165]
+---------------------------------------------------------------
+[ 2018-12-03T12:23:31+08:00 ] 127.0.0.1 GET /index/index/em
+[ info ] www.qyice.co/index/index/em [运行时间：0.054425s][吞吐率：18.37req/s] [内存消耗：1,100.77kb] [文件加载：35]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'em',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'pgv_pvi=7288054784',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/em' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->em[ C:\Users\Administrator\Desktop\file\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\Users\Administrator\Desktop\file/application/index\view\index\em.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-03T12:23:31+08:00 ] 127.0.0.1 GET /favicon.ico
+[ info ] www.qyice.co/favicon.ico [运行时间：0.044478s][吞吐率：22.48req/s] [内存消耗：819.66kb] [文件加载：29]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'cookie' => 'pgv_pvi=7288054784',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/favicon_ico' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-03T12:23:32+08:00 ] 127.0.0.1 GET /index/index/emsend.html?email=2656798247%40qq.com
+[ info ] www.qyice.co/index/index/emsend.html?email=2656798247%40qq.com [运行时间：0.089229s][吞吐率：11.21req/s] [内存消耗：1,126.23kb] [文件加载：37]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'emsend',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7288054784',
+  'connection' => 'close',
+  'x-requested-with' => 'XMLHttpRequest',
+  'referer' => 'http://www.qyice.co/index/index/em',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/emsend_html' => '',
+  'email' => '2656798247@qq.com',
+)
+[ info ] [ RUN ] app\index\controller\Index->emsend[ C:\Users\Administrator\Desktop\file\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [2]fsockopen(): unable to connect to mx1.qq.com:0 (Failed to parse address &quot;mx1.qq.com&quot;)[C:\Users\Administrator\Desktop\file\application\index\controller\Email.php:165]
+[ error ] [2]fsockopen(): unable to connect to mx2.qq.com:0 (Failed to parse address &quot;mx2.qq.com&quot;)[C:\Users\Administrator\Desktop\file\application\index\controller\Email.php:165]
+[ error ] [2]fsockopen(): unable to connect to mx3.qq.com:0 (Failed to parse address &quot;mx3.qq.com&quot;)[C:\Users\Administrator\Desktop\file\application\index\controller\Email.php:165]
+---------------------------------------------------------------
+[ 2018-12-03T12:23:52+08:00 ] 127.0.0.1 GET /index/index/em
+[ info ] www.qyice.co/index/index/em [运行时间：0.073747s][吞吐率：13.56req/s] [内存消耗：1,101.90kb] [文件加载：35]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'em',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'pgv_pvi=7288054784',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/em' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->em[ C:\Users\Administrator\Desktop\file\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\Users\Administrator\Desktop\file/application/index\view\index\em.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-03T12:23:52+08:00 ] 127.0.0.1 GET /favicon.ico
+[ info ] www.qyice.co/favicon.ico [运行时间：0.045497s][吞吐率：21.98req/s] [内存消耗：819.66kb] [文件加载：29]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'cookie' => 'pgv_pvi=7288054784',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/favicon_ico' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-03T12:23:53+08:00 ] 127.0.0.1 GET /index/index/emsend.html?email=2656798247%40qq.com
+[ info ] www.qyice.co/index/index/emsend.html?email=2656798247%40qq.com [运行时间：0.044853s][吞吐率：22.30req/s] [内存消耗：1,130.71kb] [文件加载：38]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'emsend',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7288054784',
+  'connection' => 'close',
+  'x-requested-with' => 'XMLHttpRequest',
+  'referer' => 'http://www.qyice.co/index/index/em',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/emsend_html' => '',
+  'email' => '2656798247@qq.com',
+)
+[ info ] [ RUN ] app\index\controller\Index->emsend[ C:\Users\Administrator\Desktop\file\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [2]fsockopen(): unable to connect to mx1.qq.com:0 (Failed to parse address &quot;mx1.qq.com&quot;)[C:\Users\Administrator\Desktop\file\application\index\controller\Email.php:165]
+[ error ] [2]fsockopen(): unable to connect to mx2.qq.com:0 (Failed to parse address &quot;mx2.qq.com&quot;)[C:\Users\Administrator\Desktop\file\application\index\controller\Email.php:165]
+[ error ] [2]fsockopen(): unable to connect to mx3.qq.com:0 (Failed to parse address &quot;mx3.qq.com&quot;)[C:\Users\Administrator\Desktop\file\application\index\controller\Email.php:165]
+---------------------------------------------------------------
+[ 2018-12-03T12:24:14+08:00 ] 127.0.0.1 GET /index/index/emsend.html?email=2656798247%40qq.com
+[ info ] www.qyice.co/index/index/emsend.html?email=2656798247%40qq.com [运行时间：0.082602s][吞吐率：12.11req/s] [内存消耗：1,127.36kb] [文件加载：37]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'emsend',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7288054784',
+  'connection' => 'close',
+  'x-requested-with' => 'XMLHttpRequest',
+  'referer' => 'http://www.qyice.co/index/index/em',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/emsend_html' => '',
+  'email' => '2656798247@qq.com',
+)
+[ info ] [ RUN ] app\index\controller\Index->emsend[ C:\Users\Administrator\Desktop\file\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [2]fsockopen(): unable to connect to mx1.qq.com:0 (Failed to parse address &quot;mx1.qq.com&quot;)[C:\Users\Administrator\Desktop\file\application\index\controller\Email.php:165]
+[ error ] [2]fsockopen(): unable to connect to mx2.qq.com:0 (Failed to parse address &quot;mx2.qq.com&quot;)[C:\Users\Administrator\Desktop\file\application\index\controller\Email.php:165]
+[ error ] [2]fsockopen(): unable to connect to mx3.qq.com:0 (Failed to parse address &quot;mx3.qq.com&quot;)[C:\Users\Administrator\Desktop\file\application\index\controller\Email.php:165]
+---------------------------------------------------------------
+[ 2018-12-03T12:26:48+08:00 ] 127.0.0.1 GET /index/index/emsend.html?email=2656798247%40qq.com
+[ info ] www.qyice.co/index/index/emsend.html?email=2656798247%40qq.com [运行时间：0.066663s][吞吐率：15.00req/s] [内存消耗：1,127.93kb] [文件加载：37]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'emsend',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7288054784',
+  'connection' => 'close',
+  'x-requested-with' => 'XMLHttpRequest',
+  'referer' => 'http://www.qyice.co/index/index/em',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/emsend_html' => '',
+  'email' => '2656798247@qq.com',
+)
+[ info ] [ RUN ] app\index\controller\Index->emsend[ C:\Users\Administrator\Desktop\file\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [2]fsockopen(): unable to connect to mx1.qq.com:0 (Failed to parse address &quot;mx1.qq.com&quot;)[C:\Users\Administrator\Desktop\file\application\index\controller\Email.php:165]
+[ error ] [2]fsockopen(): unable to connect to mx2.qq.com:0 (Failed to parse address &quot;mx2.qq.com&quot;)[C:\Users\Administrator\Desktop\file\application\index\controller\Email.php:165]
+[ error ] [2]fsockopen(): unable to connect to mx3.qq.com:0 (Failed to parse address &quot;mx3.qq.com&quot;)[C:\Users\Administrator\Desktop\file\application\index\controller\Email.php:165]
+---------------------------------------------------------------
+[ 2018-12-03T12:27:27+08:00 ] 127.0.0.1 GET /index/index/emsend.html?email=2656798247%40qq.com
+[ info ] www.qyice.co/index/index/emsend.html?email=2656798247%40qq.com [运行时间：0.057917s][吞吐率：17.27req/s] [内存消耗：1,127.36kb] [文件加载：37]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'emsend',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7288054784',
+  'connection' => 'close',
+  'x-requested-with' => 'XMLHttpRequest',
+  'referer' => 'http://www.qyice.co/index/index/em',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/emsend_html' => '',
+  'email' => '2656798247@qq.com',
+)
+[ info ] [ RUN ] app\index\controller\Index->emsend[ C:\Users\Administrator\Desktop\file\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [2]fsockopen(): unable to connect to mx1.qq.com:0 (Failed to parse address &quot;mx1.qq.com&quot;)[C:\Users\Administrator\Desktop\file\application\index\controller\Email.php:165]
+[ error ] [2]fsockopen(): unable to connect to mx2.qq.com:0 (Failed to parse address &quot;mx2.qq.com&quot;)[C:\Users\Administrator\Desktop\file\application\index\controller\Email.php:165]
+[ error ] [2]fsockopen(): unable to connect to mx3.qq.com:0 (Failed to parse address &quot;mx3.qq.com&quot;)[C:\Users\Administrator\Desktop\file\application\index\controller\Email.php:165]
+---------------------------------------------------------------
+[ 2018-12-03T12:28:26+08:00 ] 127.0.0.1 GET /index/index/em
+[ info ] www.qyice.co/index/index/em [运行时间：0.054335s][吞吐率：18.40req/s] [内存消耗：1,101.90kb] [文件加载：35]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'em',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'pgv_pvi=7288054784',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/em' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->em[ C:\Users\Administrator\Desktop\file\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\Users\Administrator\Desktop\file/application/index\view\index\em.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-03T12:28:27+08:00 ] 127.0.0.1 GET /favicon.ico
+[ info ] www.qyice.co/favicon.ico [运行时间：0.070811s][吞吐率：14.12req/s] [内存消耗：819.66kb] [文件加载：29]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'cookie' => 'pgv_pvi=7288054784',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/favicon_ico' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-03T12:28:27+08:00 ] 127.0.0.1 GET /index/index/emsend.html?email=2656798247%40qq.com
+[ info ] www.qyice.co/index/index/emsend.html?email=2656798247%40qq.com [运行时间：0.048924s][吞吐率：20.44req/s] [内存消耗：1,127.36kb] [文件加载：37]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'emsend',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7288054784',
+  'connection' => 'close',
+  'x-requested-with' => 'XMLHttpRequest',
+  'referer' => 'http://www.qyice.co/index/index/em',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/emsend_html' => '',
+  'email' => '2656798247@qq.com',
+)
+[ info ] [ RUN ] app\index\controller\Index->emsend[ C:\Users\Administrator\Desktop\file\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [2]fsockopen(): unable to connect to mx1.qq.com:0 (Failed to parse address &quot;mx1.qq.com&quot;)[C:\Users\Administrator\Desktop\file\application\index\controller\Email.php:165]
+[ error ] [2]fsockopen(): unable to connect to mx2.qq.com:0 (Failed to parse address &quot;mx2.qq.com&quot;)[C:\Users\Administrator\Desktop\file\application\index\controller\Email.php:165]
+[ error ] [2]fsockopen(): unable to connect to mx3.qq.com:0 (Failed to parse address &quot;mx3.qq.com&quot;)[C:\Users\Administrator\Desktop\file\application\index\controller\Email.php:165]
+---------------------------------------------------------------
+[ 2018-12-03T12:29:37+08:00 ] 127.0.0.1 GET /index/index/emsend.html?email=2656798247%40qq.com
+[ info ] www.qyice.co/index/index/emsend.html?email=2656798247%40qq.com [运行时间：0.151712s][吞吐率：6.59req/s] [内存消耗：1,139.32kb] [文件加载：39]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'emsend',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7288054784',
+  'connection' => 'close',
+  'x-requested-with' => 'XMLHttpRequest',
+  'referer' => 'http://www.qyice.co/index/index/em',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/emsend_html' => '',
+  'email' => '2656798247@qq.com',
+)
+[ info ] [ RUN ] app\index\controller\Index->emsend[ C:\Users\Administrator\Desktop\file\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [2]fsockopen(): unable to connect to mx1.qq.com:0 (Failed to parse address &quot;mx1.qq.com&quot;)[C:\Users\Administrator\Desktop\file\application\index\controller\Email.php:165]
+[ error ] [2]fsockopen(): unable to connect to mx2.qq.com:0 (Failed to parse address &quot;mx2.qq.com&quot;)[C:\Users\Administrator\Desktop\file\application\index\controller\Email.php:165]
+[ error ] [2]fsockopen(): unable to connect to mx3.qq.com:0 (Failed to parse address &quot;mx3.qq.com&quot;)[C:\Users\Administrator\Desktop\file\application\index\controller\Email.php:165]
+[ error ] [4096]Object of class think\response\Json could not be converted to string[C:\Users\Administrator\Desktop\file\application\index\controller\Index.php:34]
+---------------------------------------------------------------
+[ 2018-12-03T12:29:55+08:00 ] 127.0.0.1 GET /index/index/emsend.html?email=2656798247%40qq.com
+[ info ] www.qyice.co/index/index/emsend.html?email=2656798247%40qq.com [运行时间：0.076372s][吞吐率：13.09req/s] [内存消耗：1,127.36kb] [文件加载：37]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'emsend',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7288054784',
+  'connection' => 'close',
+  'x-requested-with' => 'XMLHttpRequest',
+  'referer' => 'http://www.qyice.co/index/index/em',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/emsend_html' => '',
+  'email' => '2656798247@qq.com',
+)
+[ info ] [ RUN ] app\index\controller\Index->emsend[ C:\Users\Administrator\Desktop\file\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [2]fsockopen(): unable to connect to mx1.qq.com:0 (Failed to parse address &quot;mx1.qq.com&quot;)[C:\Users\Administrator\Desktop\file\application\index\controller\Email.php:165]
+[ error ] [2]fsockopen(): unable to connect to mx2.qq.com:0 (Failed to parse address &quot;mx2.qq.com&quot;)[C:\Users\Administrator\Desktop\file\application\index\controller\Email.php:165]
+[ error ] [2]fsockopen(): unable to connect to mx3.qq.com:0 (Failed to parse address &quot;mx3.qq.com&quot;)[C:\Users\Administrator\Desktop\file\application\index\controller\Email.php:165]
+---------------------------------------------------------------
+[ 2018-12-03T12:30:07+08:00 ] 127.0.0.1 GET /index/index/em
+[ info ] www.qyice.co/index/index/em [运行时间：0.039155s][吞吐率：25.54req/s] [内存消耗：1,101.90kb] [文件加载：35]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'em',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'pgv_pvi=7288054784',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/em' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->em[ C:\Users\Administrator\Desktop\file\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\Users\Administrator\Desktop\file/application/index\view\index\em.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-03T12:30:07+08:00 ] 127.0.0.1 GET /favicon.ico
+[ info ] www.qyice.co/favicon.ico [运行时间：0.043273s][吞吐率：23.11req/s] [内存消耗：819.66kb] [文件加载：29]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'cookie' => 'pgv_pvi=7288054784',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/favicon_ico' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-03T12:30:08+08:00 ] 127.0.0.1 GET /index/index/emsend.html?email=2656798247%40qq.com
+[ info ] www.qyice.co/index/index/emsend.html?email=2656798247%40qq.com [运行时间：0.042458s][吞吐率：23.55req/s] [内存消耗：1,127.36kb] [文件加载：37]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'emsend',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7288054784',
+  'connection' => 'close',
+  'x-requested-with' => 'XMLHttpRequest',
+  'referer' => 'http://www.qyice.co/index/index/em',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/emsend_html' => '',
+  'email' => '2656798247@qq.com',
+)
+[ info ] [ RUN ] app\index\controller\Index->emsend[ C:\Users\Administrator\Desktop\file\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [2]fsockopen(): unable to connect to mx1.qq.com:0 (Failed to parse address &quot;mx1.qq.com&quot;)[C:\Users\Administrator\Desktop\file\application\index\controller\Email.php:165]
+[ error ] [2]fsockopen(): unable to connect to mx2.qq.com:0 (Failed to parse address &quot;mx2.qq.com&quot;)[C:\Users\Administrator\Desktop\file\application\index\controller\Email.php:165]
+[ error ] [2]fsockopen(): unable to connect to mx3.qq.com:0 (Failed to parse address &quot;mx3.qq.com&quot;)[C:\Users\Administrator\Desktop\file\application\index\controller\Email.php:165]
+---------------------------------------------------------------
+[ 2018-12-03T12:30:55+08:00 ] 127.0.0.1 GET /index/index/emsend.html?email=2656798247%40qq.com
+[ info ] www.qyice.co/index/index/emsend.html?email=2656798247%40qq.com [运行时间：0.057543s][吞吐率：17.38req/s] [内存消耗：1,127.37kb] [文件加载：37]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'emsend',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7288054784',
+  'connection' => 'close',
+  'x-requested-with' => 'XMLHttpRequest',
+  'referer' => 'http://www.qyice.co/index/index/em',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/emsend_html' => '',
+  'email' => '2656798247@qq.com',
+)
+[ info ] [ RUN ] app\index\controller\Index->emsend[ C:\Users\Administrator\Desktop\file\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [2]fsockopen(): unable to connect to mx1.qq.com:0 (Failed to parse address &quot;mx1.qq.com&quot;)[C:\Users\Administrator\Desktop\file\application\index\controller\Email.php:165]
+[ error ] [2]fsockopen(): unable to connect to mx2.qq.com:0 (Failed to parse address &quot;mx2.qq.com&quot;)[C:\Users\Administrator\Desktop\file\application\index\controller\Email.php:165]
+[ error ] [2]fsockopen(): unable to connect to mx3.qq.com:0 (Failed to parse address &quot;mx3.qq.com&quot;)[C:\Users\Administrator\Desktop\file\application\index\controller\Email.php:165]
+---------------------------------------------------------------
+[ 2018-12-03T12:41:52+08:00 ] 127.0.0.1 GET /index/index/em
+[ info ] www.qyice.co/index/index/em [运行时间：0.080553s][吞吐率：12.41req/s] [内存消耗：1,216.30kb] [文件加载：37]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'em',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'pgv_pvi=7288054784',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/em' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->em[ C:\Users\Administrator\Desktop\file\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\Users\Administrator\Desktop\file/application/index\view\index\em.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-03T12:41:52+08:00 ] 127.0.0.1 GET /favicon.ico
+[ info ] www.qyice.co/favicon.ico [运行时间：0.040628s][吞吐率：24.61req/s] [内存消耗：819.66kb] [文件加载：29]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'cookie' => 'pgv_pvi=7288054784',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/favicon_ico' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-03T12:42:03+08:00 ] 127.0.0.1 POST /index/index/emsend.html
+[ info ] www.qyice.co/index/index/emsend.html [运行时间：1.725170s][吞吐率：0.58req/s] [内存消耗：1,087.98kb] [文件加载：36]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'emsend',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7288054784',
+  'connection' => 'close',
+  'content-length' => '17',
+  'x-requested-with' => 'XMLHttpRequest',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'referer' => 'http://www.qyice.co/index/index/em',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/emsend_html' => '',
+  'phone' => '18508164831',
+)
+[ info ] [ RUN ] app\index\controller\Index->emsend[ C:\Users\Administrator\Desktop\file\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-03T12:42:53+08:00 ] 127.0.0.1 GET /index/index/em
+[ info ] www.qyice.co/index/index/em [运行时间：0.092015s][吞吐率：10.87req/s] [内存消耗：1,215.86kb] [文件加载：37]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'em',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'pgv_pvi=7288054784; code=657867',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/em' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->em[ C:\Users\Administrator\Desktop\file\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\Users\Administrator\Desktop\file/application/index\view\index\em.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-03T12:42:54+08:00 ] 127.0.0.1 GET /favicon.ico
+[ info ] www.qyice.co/favicon.ico [运行时间：0.040297s][吞吐率：24.82req/s] [内存消耗：819.66kb] [文件加载：29]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'cookie' => 'pgv_pvi=7288054784; code=657867',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/favicon_ico' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-03T12:42:55+08:00 ] 127.0.0.1 POST /index/index/emsend2.html
+[ info ] www.qyice.co/index/index/emsend2.html [运行时间：0.063111s][吞吐率：15.85req/s] [内存消耗：1,078.79kb] [文件加载：35]
+[ info ] [ LANG ] C:\Users\Administrator\Desktop\file\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'emsend2',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7288054784; code=657867',
+  'connection' => 'close',
+  'content-length' => '11',
+  'x-requested-with' => 'XMLHttpRequest',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'referer' => 'http://www.qyice.co/index/index/em',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0',
+  'host' => 'www.qyice.co',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/emsend2_html' => '',
+  'cody' => '657867',
+)
+[ info ] [ RUN ] app\index\controller\Index->emsend2[ C:\Users\Administrator\Desktop\file\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File

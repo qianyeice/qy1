@@ -1,0 +1,1059 @@
+---------------------------------------------------------------
+[ 2018-12-27T00:04:37+08:00 ] 101.206.166.247 GET /admin
+[ info ] www.qyice.top/admin [运行时间：0.015478s][吞吐率：64.61req/s] [内存消耗：1,642.77kb] [文件加载：42]
+[ info ] [ LANG ] /www/wwwroot/blog/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'order=id%20desc; memSize=1839; uploadSize=1073741824; rank=a; sites_path=/www/wwwroot; serverType=apache; BatchPaste=null; SetName=; force=0; pnull=1; softType=0; BT_PANEL_6=89d629a0-8ea8-44a1-bdef-97f8b88c17f9.Vbts3_5tLGhW7PtrhvRv-MzMsRE; request_token=273757f5c0d810e6e28b51bc084e7968; backup_path=/www/backup; depType=4; p0=2; Path=/www/wwwroot/blog/application/admin/view/privates',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+  '/admin' => '',
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ /www/wwwroot/blog/application/admin/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/blog/application/admin/view/index/index.html [ array (
+  0 => 'msg',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T00:04:38+08:00 ] 101.206.166.247 GET /admin/index/welcome.html
+[ info ] www.qyice.top/admin/index/welcome.html [运行时间：0.014195s][吞吐率：70.45req/s] [内存消耗：1,587.92kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/blog/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'welcome',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'order=id%20desc; memSize=1839; uploadSize=1073741824; rank=a; sites_path=/www/wwwroot; serverType=apache; BatchPaste=null; SetName=; force=0; pnull=1; softType=0; BT_PANEL_6=89d629a0-8ea8-44a1-bdef-97f8b88c17f9.Vbts3_5tLGhW7PtrhvRv-MzMsRE; request_token=273757f5c0d810e6e28b51bc084e7968; backup_path=/www/backup; depType=4; p0=2; Path=/www/wwwroot/blog/application/admin/view/privates',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qyice.top/admin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+  '/admin/index/welcome_html' => '',
+)
+[ info ] [ RUN ] app\admin\controller\Index->welcome[ /www/wwwroot/blog/application/admin/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/blog/application/admin/view/index/welcome.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T00:04:40+08:00 ] 101.206.166.247 GET /admin/privates/pass.html
+[ info ] www.qyice.top/admin/privates/pass.html [运行时间：0.016391s][吞吐率：61.01req/s] [内存消耗：1,855.46kb] [文件加载：45]
+[ info ] [ LANG ] /www/wwwroot/blog/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'privates',
+    2 => 'pass',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'order=id%20desc; memSize=1839; uploadSize=1073741824; rank=a; sites_path=/www/wwwroot; serverType=apache; BatchPaste=null; SetName=; force=0; pnull=1; softType=0; BT_PANEL_6=89d629a0-8ea8-44a1-bdef-97f8b88c17f9.Vbts3_5tLGhW7PtrhvRv-MzMsRE; request_token=273757f5c0d810e6e28b51bc084e7968; backup_path=/www/backup; depType=4; p0=2; Path=/www/wwwroot/blog/application/admin/view/privates',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qyice.top/admin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+  '/admin/privates/pass_html' => '',
+)
+[ info ] [ RUN ] app\admin\controller\Privates->pass[ /www/wwwroot/blog/application/admin/controller/Privates.php ]
+[ info ] [ VIEW ] /www/wwwroot/blog/application/admin/view/privates/pass.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T00:04:40+08:00 ] 101.206.166.247 GET /admin/privates/passlist.html?page=1&limit=10
+[ info ] www.qyice.top/admin/privates/passlist.html?page=1&limit=10 [运行时间：0.023255s][吞吐率：43.00req/s] [内存消耗：2,462.84kb] [文件加载：49]
+[ info ] [ LANG ] /www/wwwroot/blog/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'privates',
+    2 => 'passlist',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'order=id%20desc; memSize=1839; uploadSize=1073741824; rank=a; sites_path=/www/wwwroot; serverType=apache; BatchPaste=null; SetName=; force=0; pnull=1; softType=0; BT_PANEL_6=89d629a0-8ea8-44a1-bdef-97f8b88c17f9.Vbts3_5tLGhW7PtrhvRv-MzMsRE; request_token=273757f5c0d810e6e28b51bc084e7968; backup_path=/www/backup; depType=4; p0=2; Path=/www/wwwroot/blog/application/admin/view/privates',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qyice.top/admin/privates/pass.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+  '/admin/privates/passlist_html' => '',
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ RUN ] app\admin\controller\Privates->passList[ /www/wwwroot/blog/application/admin/controller/Privates.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000505s ] mysql:host=127.0.0.1;port=3306;dbname=www_qyice_top;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `qy_password` [ RunTime:0.000592s ]
+[ sql ] [ SQL ] SELECT * FROM `qy_password` LIMIT 0,10 [ RunTime:0.000142s ]
+---------------------------------------------------------------
+[ 2018-12-27T03:20:55+08:00 ] 52.53.201.78 GET /
+[ info ] www.qyice.top/ [运行时间：0.016221s][吞吐率：61.65req/s] [内存消耗：1,637.84kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/blog/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/blog/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/blog/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:04:35+08:00 ] 101.132.98.159 GET /
+[ info ] www.qyice.top/ [运行时间：0.015490s][吞吐率：64.56req/s] [内存消耗：1,637.86kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/blog/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+  'host' => 'www.qyice.top',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:36.0) Gecko/20100101 Firefox/36.0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/blog/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/blog/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:22:19+08:00 ] 106.15.201.111 GET /
+[ info ] qyice.top/ [运行时间：0.015453s][吞吐率：64.71req/s] [内存消耗：1,637.83kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/blog/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+  'host' => 'qyice.top',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:36.0) Gecko/20100101 Firefox/36.0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/blog/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/blog/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:43:33+08:00 ] 101.132.102.65 GET /
+[ info ] www.qyice.top/ [运行时间：0.015027s][吞吐率：66.55req/s] [内存消耗：1,637.53kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/blog/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+  'host' => 'www.qyice.top',
+  'user-agent' => 'android',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/blog/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/blog/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T11:46:19+08:00 ] 60.170.122.185 GET /
+[ info ] www.qyice.top/ [运行时间：0.017247s][吞吐率：57.98req/s] [内存消耗：1,879.25kb] [文件加载：43]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'referer' => 'http://47.105.127.117:80/',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.122 Safari/537.36 SE 2.X MetaSr 1.0',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T11:47:10+08:00 ] 60.10.27.168 GET /
+[ info ] www.qyice.top/ [运行时间：0.015526s][吞吐率：64.41req/s] [内存消耗：1,642.09kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.qyice.top',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.122 Safari/537.36 SE 2.X MetaSr 1.0',
+  'referer' => 'http://47.105.127.117/',
+  'accept-language' => 'zh-cn',
+  'accept' => '*/*',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T11:47:57+08:00 ] 60.10.27.168 GET /
+[ info ] www.qyice.top/ [运行时间：0.014937s][吞吐率：66.95req/s] [内存消耗：1,642.09kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.qyice.top',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.122 Safari/537.36 SE 2.X MetaSr 1.0',
+  'referer' => 'http://47.105.127.117/',
+  'accept-language' => 'zh-cn',
+  'accept' => '*/*',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T15:56:48+08:00 ] 60.170.122.185 GET /
+[ info ] www.qyice.top/ [运行时间：0.014235s][吞吐率：70.25req/s] [内存消耗：1,641.69kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'referer' => 'http://47.105.127.117:80/',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.122 Safari/537.36 SE 2.X MetaSr 1.0',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T16:30:52+08:00 ] 61.161.197.162 GET /
+[ info ] www.qyice.top/ [运行时间：0.014632s][吞吐率：68.34req/s] [内存消耗：1,641.69kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'referer' => 'http://47.105.127.117:80/',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.122 Safari/537.36 SE 2.X MetaSr 1.0',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T16:43:08+08:00 ] 66.220.149.21 GET /robots.txt
+[ info ] qyice.top/robots.txt [运行时间：0.016395s][吞吐率：60.99req/s] [内存消耗：1,321.59kb] [文件加载：35]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'robots.txt',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'host' => 'qyice.top',
+  'range' => 'bytes=0-524287',
+  'user-agent' => 'facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)',
+  'accept-encoding' => 'deflate, gzip',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+  '/robots_txt' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T16:48:17+08:00 ] 173.252.95.1 GET /?fbclid=IwAR0Aqkn7YorXYBYEwM7FQ0EzAEM-eUkGkCt4-5XCFrs3-7OOUiw5i3s2-4Y
+[ info ] qyice.top/?fbclid=IwAR0Aqkn7YorXYBYEwM7FQ0EzAEM-eUkGkCt4-5XCFrs3-7OOUiw5i3s2-4Y [运行时间：0.016157s][吞吐率：61.89req/s] [内存消耗：1,643.70kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'host' => 'qyice.top',
+  'referer' => 'https://www.facebook.com/',
+  'accept-language' => 'en-US',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.85 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'fbclid' => 'IwAR0Aqkn7YorXYBYEwM7FQ0EzAEM-eUkGkCt4-5XCFrs3-7OOUiw5i3s2-4Y',
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T16:48:24+08:00 ] 173.252.95.5 GET /favicon.ico
+[ info ] qyice.top/favicon.ico [运行时间：0.013675s][吞吐率：73.13req/s] [内存消耗：1,322.63kb] [文件加载：35]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'host' => 'qyice.top',
+  'accept-language' => 'en-US',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://qyice.top/?fbclid=IwAR0Aqkn7YorXYBYEwM7FQ0EzAEM-eUkGkCt4-5XCFrs3-7OOUiw5i3s2-4Y',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.85 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  '/favicon_ico' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T21:44:44+08:00 ] 139.205.158.205 GET /admin
+[ info ] www.qyice.top/admin [运行时间：0.016462s][吞吐率：60.75req/s] [内存消耗：1,858.97kb] [文件加载：44]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'order=id%20desc; memSize=1839; uploadSize=1073741824; rank=a; sites_path=/www/wwwroot; serverType=apache; BatchPaste=null; SetName=; force=0; pnull=1; softType=0; BT_PANEL_6=89d629a0-8ea8-44a1-bdef-97f8b88c17f9.Vbts3_5tLGhW7PtrhvRv-MzMsRE; request_token=273757f5c0d810e6e28b51bc084e7968; backup_path=/www/backup; depType=4; p0=2; vcodesum=7; Path=/www/wwwroot',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qyice.co/admin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+  '/admin' => '',
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ /www/wwwroot/www.qyice.top/application/admin/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/admin/view/index/index.html [ array (
+  0 => 'msg',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T21:44:45+08:00 ] 139.205.158.205 GET /admin/index/welcome.html
+[ info ] www.qyice.top/admin/index/welcome.html [运行时间：0.018158s][吞吐率：55.07req/s] [内存消耗：1,794.70kb] [文件加载：43]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'welcome',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'order=id%20desc; memSize=1839; uploadSize=1073741824; rank=a; sites_path=/www/wwwroot; serverType=apache; BatchPaste=null; SetName=; force=0; pnull=1; softType=0; BT_PANEL_6=89d629a0-8ea8-44a1-bdef-97f8b88c17f9.Vbts3_5tLGhW7PtrhvRv-MzMsRE; request_token=273757f5c0d810e6e28b51bc084e7968; backup_path=/www/backup; depType=4; p0=2; vcodesum=7; Path=/www/wwwroot',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qyice.top/admin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+  '/admin/index/welcome_html' => '',
+)
+[ info ] [ RUN ] app\admin\controller\Index->welcome[ /www/wwwroot/www.qyice.top/application/admin/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/admin/view/index/welcome.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T21:44:46+08:00 ] 139.205.158.205 GET /favicon.ico
+[ info ] www.qyice.top/favicon.ico [运行时间：0.012664s][吞吐率：78.96req/s] [内存消耗：1,324.44kb] [文件加载：35]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'order=id%20desc; memSize=1839; uploadSize=1073741824; rank=a; sites_path=/www/wwwroot; serverType=apache; BatchPaste=null; SetName=; force=0; pnull=1; softType=0; BT_PANEL_6=89d629a0-8ea8-44a1-bdef-97f8b88c17f9.Vbts3_5tLGhW7PtrhvRv-MzMsRE; request_token=273757f5c0d810e6e28b51bc084e7968; backup_path=/www/backup; depType=4; p0=2; vcodesum=7; Path=/www/wwwroot',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qyice.top/admin',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+  '/favicon_ico' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T21:45:43+08:00 ] 139.205.158.205 GET /admin
+[ info ] www.qyice.top/admin [运行时间：0.015703s][吞吐率：63.68req/s] [内存消耗：1,645.63kb] [文件加载：42]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'order=id%20desc; memSize=1839; uploadSize=1073741824; rank=a; sites_path=/www/wwwroot; serverType=apache; BatchPaste=null; SetName=; force=0; pnull=1; softType=0; BT_PANEL_6=89d629a0-8ea8-44a1-bdef-97f8b88c17f9.Vbts3_5tLGhW7PtrhvRv-MzMsRE; request_token=273757f5c0d810e6e28b51bc084e7968; backup_path=/www/backup; depType=4; p0=2; vcodesum=7; Path=/www/wwwroot',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qyice.co/admin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+  '/admin' => '',
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ /www/wwwroot/www.qyice.top/application/admin/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/admin/view/index/index.html [ array (
+  0 => 'msg',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T21:45:43+08:00 ] 139.205.158.205 GET /admin/index/welcome.html
+[ info ] www.qyice.top/admin/index/welcome.html [运行时间：0.013958s][吞吐率：71.64req/s] [内存消耗：1,589.80kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'welcome',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'order=id%20desc; memSize=1839; uploadSize=1073741824; rank=a; sites_path=/www/wwwroot; serverType=apache; BatchPaste=null; SetName=; force=0; pnull=1; softType=0; BT_PANEL_6=89d629a0-8ea8-44a1-bdef-97f8b88c17f9.Vbts3_5tLGhW7PtrhvRv-MzMsRE; request_token=273757f5c0d810e6e28b51bc084e7968; backup_path=/www/backup; depType=4; p0=2; vcodesum=7; Path=/www/wwwroot',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qyice.top/admin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+  '/admin/index/welcome_html' => '',
+)
+[ info ] [ RUN ] app\admin\controller\Index->welcome[ /www/wwwroot/www.qyice.top/application/admin/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/admin/view/index/welcome.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T21:45:45+08:00 ] 139.205.158.205 GET /admin
+[ info ] www.qyice.top/admin [运行时间：0.015734s][吞吐率：63.56req/s] [内存消耗：1,645.63kb] [文件加载：42]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'order=id%20desc; memSize=1839; uploadSize=1073741824; rank=a; sites_path=/www/wwwroot; serverType=apache; BatchPaste=null; SetName=; force=0; pnull=1; softType=0; BT_PANEL_6=89d629a0-8ea8-44a1-bdef-97f8b88c17f9.Vbts3_5tLGhW7PtrhvRv-MzMsRE; request_token=273757f5c0d810e6e28b51bc084e7968; backup_path=/www/backup; depType=4; p0=2; vcodesum=7; Path=/www/wwwroot',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qyice.co/admin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+  '/admin' => '',
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ /www/wwwroot/www.qyice.top/application/admin/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/admin/view/index/index.html [ array (
+  0 => 'msg',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T21:45:45+08:00 ] 139.205.158.205 GET /admin/index/welcome.html
+[ info ] www.qyice.top/admin/index/welcome.html [运行时间：0.014729s][吞吐率：67.89req/s] [内存消耗：1,589.80kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'welcome',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'order=id%20desc; memSize=1839; uploadSize=1073741824; rank=a; sites_path=/www/wwwroot; serverType=apache; BatchPaste=null; SetName=; force=0; pnull=1; softType=0; BT_PANEL_6=89d629a0-8ea8-44a1-bdef-97f8b88c17f9.Vbts3_5tLGhW7PtrhvRv-MzMsRE; request_token=273757f5c0d810e6e28b51bc084e7968; backup_path=/www/backup; depType=4; p0=2; vcodesum=7; Path=/www/wwwroot',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qyice.top/admin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+  '/admin/index/welcome_html' => '',
+)
+[ info ] [ RUN ] app\admin\controller\Index->welcome[ /www/wwwroot/www.qyice.top/application/admin/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/admin/view/index/welcome.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T21:46:32+08:00 ] 139.205.158.205 GET /admin
+[ info ] www.qyice.top/admin [运行时间：0.014863s][吞吐率：67.28req/s] [内存消耗：1,645.63kb] [文件加载：42]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'order=id%20desc; memSize=1839; uploadSize=1073741824; rank=a; sites_path=/www/wwwroot; serverType=apache; BatchPaste=null; SetName=; force=0; pnull=1; softType=0; BT_PANEL_6=89d629a0-8ea8-44a1-bdef-97f8b88c17f9.Vbts3_5tLGhW7PtrhvRv-MzMsRE; request_token=273757f5c0d810e6e28b51bc084e7968; backup_path=/www/backup; depType=4; p0=2; vcodesum=7; Path=/www/wwwroot',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qyice.co/admin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+  '/admin' => '',
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ /www/wwwroot/www.qyice.top/application/admin/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/admin/view/index/index.html [ array (
+  0 => 'msg',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T21:46:32+08:00 ] 139.205.158.205 GET /admin/index/welcome.html
+[ info ] www.qyice.top/admin/index/welcome.html [运行时间：0.014462s][吞吐率：69.15req/s] [内存消耗：1,589.80kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'welcome',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'order=id%20desc; memSize=1839; uploadSize=1073741824; rank=a; sites_path=/www/wwwroot; serverType=apache; BatchPaste=null; SetName=; force=0; pnull=1; softType=0; BT_PANEL_6=89d629a0-8ea8-44a1-bdef-97f8b88c17f9.Vbts3_5tLGhW7PtrhvRv-MzMsRE; request_token=273757f5c0d810e6e28b51bc084e7968; backup_path=/www/backup; depType=4; p0=2; vcodesum=7; Path=/www/wwwroot',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qyice.top/admin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+  '/admin/index/welcome_html' => '',
+)
+[ info ] [ RUN ] app\admin\controller\Index->welcome[ /www/wwwroot/www.qyice.top/application/admin/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/admin/view/index/welcome.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T21:46:33+08:00 ] 139.205.158.205 GET /admin
+[ info ] www.qyice.top/admin [运行时间：0.014977s][吞吐率：66.77req/s] [内存消耗：1,645.63kb] [文件加载：42]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'order=id%20desc; memSize=1839; uploadSize=1073741824; rank=a; sites_path=/www/wwwroot; serverType=apache; BatchPaste=null; SetName=; force=0; pnull=1; softType=0; BT_PANEL_6=89d629a0-8ea8-44a1-bdef-97f8b88c17f9.Vbts3_5tLGhW7PtrhvRv-MzMsRE; request_token=273757f5c0d810e6e28b51bc084e7968; backup_path=/www/backup; depType=4; p0=2; vcodesum=7; Path=/www/wwwroot',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qyice.co/admin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+  '/admin' => '',
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ /www/wwwroot/www.qyice.top/application/admin/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/admin/view/index/index.html [ array (
+  0 => 'msg',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T21:46:33+08:00 ] 139.205.158.205 GET /admin/index/welcome.html
+[ info ] www.qyice.top/admin/index/welcome.html [运行时间：0.014849s][吞吐率：67.34req/s] [内存消耗：1,589.80kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'welcome',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'order=id%20desc; memSize=1839; uploadSize=1073741824; rank=a; sites_path=/www/wwwroot; serverType=apache; BatchPaste=null; SetName=; force=0; pnull=1; softType=0; BT_PANEL_6=89d629a0-8ea8-44a1-bdef-97f8b88c17f9.Vbts3_5tLGhW7PtrhvRv-MzMsRE; request_token=273757f5c0d810e6e28b51bc084e7968; backup_path=/www/backup; depType=4; p0=2; vcodesum=7; Path=/www/wwwroot',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qyice.top/admin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+  '/admin/index/welcome_html' => '',
+)
+[ info ] [ RUN ] app\admin\controller\Index->welcome[ /www/wwwroot/www.qyice.top/application/admin/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/admin/view/index/welcome.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T21:46:46+08:00 ] 139.205.158.205 GET /admin
+[ info ] www.qyice.top/admin [运行时间：0.016220s][吞吐率：61.65req/s] [内存消耗：1,645.63kb] [文件加载：42]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'order=id%20desc; memSize=1839; uploadSize=1073741824; rank=a; sites_path=/www/wwwroot; serverType=apache; BatchPaste=null; SetName=; force=0; pnull=1; softType=0; BT_PANEL_6=89d629a0-8ea8-44a1-bdef-97f8b88c17f9.Vbts3_5tLGhW7PtrhvRv-MzMsRE; request_token=273757f5c0d810e6e28b51bc084e7968; backup_path=/www/backup; depType=4; p0=2; vcodesum=7; Path=/www/wwwroot',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qyice.co/admin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+  '/admin' => '',
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ /www/wwwroot/www.qyice.top/application/admin/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/admin/view/index/index.html [ array (
+  0 => 'msg',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T21:46:46+08:00 ] 139.205.158.205 GET /admin/index/welcome.html
+[ info ] www.qyice.top/admin/index/welcome.html [运行时间：0.014942s][吞吐率：66.93req/s] [内存消耗：1,589.80kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'welcome',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'order=id%20desc; memSize=1839; uploadSize=1073741824; rank=a; sites_path=/www/wwwroot; serverType=apache; BatchPaste=null; SetName=; force=0; pnull=1; softType=0; BT_PANEL_6=89d629a0-8ea8-44a1-bdef-97f8b88c17f9.Vbts3_5tLGhW7PtrhvRv-MzMsRE; request_token=273757f5c0d810e6e28b51bc084e7968; backup_path=/www/backup; depType=4; p0=2; vcodesum=7; Path=/www/wwwroot',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qyice.top/admin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+  '/admin/index/welcome_html' => '',
+)
+[ info ] [ RUN ] app\admin\controller\Index->welcome[ /www/wwwroot/www.qyice.top/application/admin/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/admin/view/index/welcome.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T21:47:49+08:00 ] 139.205.158.205 GET /admin
+[ info ] www.qyice.top/admin [运行时间：0.014255s][吞吐率：70.15req/s] [内存消耗：1,645.82kb] [文件加载：42]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'order=id%20desc; memSize=1839; uploadSize=1073741824; rank=a; sites_path=/www/wwwroot; serverType=apache; BatchPaste=null; SetName=; force=0; pnull=1; softType=0; BT_PANEL_6=89d629a0-8ea8-44a1-bdef-97f8b88c17f9.Vbts3_5tLGhW7PtrhvRv-MzMsRE; request_token=273757f5c0d810e6e28b51bc084e7968; backup_path=/www/backup; depType=4; p0=2; vcodesum=7; Path=/www/wwwroot',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qyice.co/admin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+  '/admin' => '',
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ /www/wwwroot/www.qyice.top/application/admin/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/admin/view/index/index.html [ array (
+  0 => 'msg',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T21:47:50+08:00 ] 139.205.158.205 GET /admin/index/welcome.html
+[ info ] www.qyice.top/admin/index/welcome.html [运行时间：0.014924s][吞吐率：67.01req/s] [内存消耗：1,590.32kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'welcome',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'order=id%20desc; memSize=1839; uploadSize=1073741824; rank=a; sites_path=/www/wwwroot; serverType=apache; BatchPaste=null; SetName=; force=0; pnull=1; softType=0; BT_PANEL_6=89d629a0-8ea8-44a1-bdef-97f8b88c17f9.Vbts3_5tLGhW7PtrhvRv-MzMsRE; request_token=273757f5c0d810e6e28b51bc084e7968; backup_path=/www/backup; depType=4; p0=2; vcodesum=7; Path=/www/wwwroot',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qyice.top/admin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+  '/admin/index/welcome_html' => '',
+)
+[ info ] [ RUN ] app\admin\controller\Index->welcome[ /www/wwwroot/www.qyice.top/application/admin/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/admin/view/index/welcome.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T21:48:07+08:00 ] 139.205.158.205 GET /admin/login
+[ info ] www.qyice.top/admin/login [运行时间：0.016057s][吞吐率：62.28req/s] [内存消耗：1,791.63kb] [文件加载：42]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'order=id%20desc; memSize=1839; uploadSize=1073741824; rank=a; sites_path=/www/wwwroot; serverType=apache; BatchPaste=null; SetName=; force=0; pnull=1; softType=0; BT_PANEL_6=89d629a0-8ea8-44a1-bdef-97f8b88c17f9.Vbts3_5tLGhW7PtrhvRv-MzMsRE; request_token=273757f5c0d810e6e28b51bc084e7968; backup_path=/www/backup; depType=4; p0=2; vcodesum=7; Path=/www/wwwroot',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'purpose' => 'prefetch',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+  '/admin/login' => '',
+)
+[ info ] [ RUN ] app\admin\controller\Login->index[ /www/wwwroot/www.qyice.top/application/admin/controller/Login.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/admin/view/login/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T21:48:07+08:00 ] 139.205.158.205 GET /admin/login
+[ info ] www.qyice.top/admin/login [运行时间：0.014541s][吞吐率：68.77req/s] [内存消耗：1,586.91kb] [文件加载：40]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'order=id%20desc; memSize=1839; uploadSize=1073741824; rank=a; sites_path=/www/wwwroot; serverType=apache; BatchPaste=null; SetName=; force=0; pnull=1; softType=0; BT_PANEL_6=89d629a0-8ea8-44a1-bdef-97f8b88c17f9.Vbts3_5tLGhW7PtrhvRv-MzMsRE; request_token=273757f5c0d810e6e28b51bc084e7968; backup_path=/www/backup; depType=4; p0=2; vcodesum=7; Path=/www/wwwroot',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'www.qyice.top',
+)
+[ info ] [ PARAM ] array (
+  '/admin/login' => '',
+)
+[ info ] [ RUN ] app\admin\controller\Login->index[ /www/wwwroot/www.qyice.top/application/admin/controller/Login.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/admin/view/login/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T22:13:51+08:00 ] 47.92.148.120 GET /
+[ info ] qyice.top/ [运行时间：0.130244s][吞吐率：7.68req/s] [内存消耗：1,640.05kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+  'host' => 'qyice.top',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:36.0) Gecko/20100101 Firefox/36.0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T22:20:08+08:00 ] 47.100.1.70 GET /
+[ info ] www.qyice.top/ [运行时间：0.017205s][吞吐率：58.12req/s] [内存消耗：1,640.09kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+  'host' => 'www.qyice.top',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:36.0) Gecko/20100101 Firefox/36.0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T22:24:14+08:00 ] 47.92.50.96 GET /
+[ info ] www.qyice.top/ [运行时间：0.015813s][吞吐率：63.24req/s] [内存消耗：1,640.09kb] [文件加载：41]
+[ info ] [ LANG ] /www/wwwroot/www.qyice.top/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+  'host' => 'www.qyice.top',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:36.0) Gecko/20100101 Firefox/36.0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.qyice.top/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.qyice.top/application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
